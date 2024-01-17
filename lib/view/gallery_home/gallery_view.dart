@@ -74,7 +74,7 @@ class GalleryHomeView extends StatelessWidget {
                   return state.isEmpty
                       ? Center(
                           child: Text(
-                          "Click on camera icon to capture an image.",
+                          "Click on add icon to capture an image.",
                           textAlign: TextAlign.center,
                           style: GoogleFonts.inter(
                               fontSize: 14.sp,
